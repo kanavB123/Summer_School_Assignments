@@ -6,7 +6,7 @@ import string
 import time
 import matplotlib.pyplot as plt
 
-Helper function to check if a number is prime
+# Helper function to check if a number is prime
 def is_prime(n):
     if n <= 1:
         return False
