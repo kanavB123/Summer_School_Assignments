@@ -1,5 +1,5 @@
 
-### Python Assignment (Full Solution)
+# Python Assignment (Full Solution)
 
 import random
 import string
